@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: black;
   height: 100%;
 }
 
@@ -105,7 +105,9 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
   font-size: 1.25em;
+  color: white;
   height: 100%;
+  justify-content: center; 
 }
 
 .wrapper {
@@ -124,8 +126,8 @@ body {
   line-height: 1.5em;
   font-size: 1.6em;
   align-items: center;
-  background-color: #f16059;
-  height: 300px;
+  background-color: black;
+  height: 400px;
 }
 
 
